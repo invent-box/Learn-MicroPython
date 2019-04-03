@@ -1,7 +1,7 @@
 # InventBox MicroPython Video Tutorial Course
 
-This repository contains the code used in the {{series_name}} tutorial series, organized by video.
+This repository contains the code used in the Learn MicroPython tutorial series, organized by video.
 
-__Watch the [video playlist]({{playlist_url}}) on Youtube.__
+__Watch the [video playlist](https://www.youtube.com/playlist?list=PL2935W76vRNEV6PwvxiqJf47JVrbGzTkC) on Youtube.__
 
 
